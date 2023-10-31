@@ -1,1 +1,10 @@
 /* your code here */
+/* your code here */
+.button{
+	height:40px;
+	color:white;
+	background-color:red;
+	border-color:red;
+	border-radius:5px;
+	
+}
